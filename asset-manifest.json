@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.547511df.css",
-    "main.js": "./static/js/main.e2e879c7.js",
+    "main.css": "./static/css/main.1e087fa1.css",
+    "main.js": "./static/js/main.6459d4cb.js",
     "static/js/787.fbb39171.chunk.js": "./static/js/787.fbb39171.chunk.js",
     "static/media/odd_jobs.jpg": "./static/media/odd_jobs.e2a9bdc3f6425d303d7f.jpg",
     "static/media/carpentry.jpg": "./static/media/carpentry.91461b7a76fffc60a499.jpg",
@@ -12,21 +12,21 @@
     "static/media/electrical.jpg": "./static/media/electrical.2bc21e5602d5c6c1883d.jpg",
     "static/media/hero_background.jpg": "./static/media/hero_background.ec4e7694b862d9db8f29.jpg",
     "static/media/contact.jpg": "./static/media/contact.6f50fa5df9f43b907829.jpg",
-    "static/media/profix_pete_logo.png": "./static/media/profix_pete_logo.d0c3d94bad9c5cffb383.png",
+    "static/media/profix_pete_logo.png": "./static/media/profix_pete_logo.3b761b526464414599fc.png",
     "static/media/Botera-RegularStencil.otf": "./static/media/Botera-RegularStencil.4638d3bf225c52cbf54f.otf",
     "static/media/Botera-Regular.otf": "./static/media/Botera-Regular.23097c26c0daa1323cc0.otf",
-    "static/media/profix_pete_logo_small.png": "./static/media/profix_pete_logo_small.48013676d414e71b5aa2.png",
+    "static/media/profix_pete_logo_small.png": "./static/media/profix_pete_logo_small.66e20da6cf44ec19061c.png",
     "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
-    "main.547511df.css.map": "./static/css/main.547511df.css.map",
-    "main.e2e879c7.js.map": "./static/js/main.e2e879c7.js.map",
+    "main.1e087fa1.css.map": "./static/css/main.1e087fa1.css.map",
+    "main.6459d4cb.js.map": "./static/js/main.6459d4cb.js.map",
     "787.fbb39171.chunk.js.map": "./static/js/787.fbb39171.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.547511df.css",
-    "static/js/main.e2e879c7.js"
+    "static/css/main.1e087fa1.css",
+    "static/js/main.6459d4cb.js"
   ]
 }
